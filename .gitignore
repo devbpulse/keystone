@@ -39,3 +39,4 @@ yarn.lock
 # Website dependencies
 website/.cache
 website/public
+config.bat
